@@ -17,16 +17,25 @@
 * 用 jQuery 設計網頁動畫效果
 * 能透過 ajax 串接 open data API
 * 了解 Git/Github 基礎操作
-* 能使用 gulp 管理前端任務 (例如 Sass 整合)
+* 能使用 gulp 管理前端任務 (例如 Scss、pug 整合)
+* Bootstrap 4
 * TOEIC 700
 
 ## 作品
 * [六角學院](https://hicksonwei.github.io/HexSchool_Html_FinalProject/)
-* [六角西餐廳](https://hicksonwei.github.io/HexSchool_RWD_FinalProject/)
+ * 基礎版型 
+* [六角西餐廳網站](https://hicksonwei.github.io/HexSchool_RWD_FinalProject/)
+ * 客製 RWD + Scss + jQuery
 * [高雄旅遊資訊](https://hicksonwei.github.io/HexSchool_JS_JSON/)
+ * 使用 JSON 格式資料渲染畫面
+* [六角西餐廳 Landing Page](https://hicksonwei.github.io/Landing_Page/)
+ * Bootstrap 4 + gulp 管理
 * [匯率轉換](http://jsbin.com/cagujab/edit?output)
-* [todoList](https://hicksonwei.github.io/todos/)
+ * Open data + Vue.js 簡易功能操作
+* [todos](https://hicksonwei.github.io/todos/)
+ * 簡易 todoList
 * [UVI](http://jsbin.com/solefom/edit?output)
+ * Open data
 
 ## 關於我
 從食品科學系畢業後即投入相關產業，雖然工作表現尚屬穩健，卻略嫌欠缺成就感，並慢慢了解到產業的發展極限。躑躅間偶然接觸到程式設計，在初步投入後覺得十分感興趣，便決定辭去職務，透過自學及線上課程，從前端相關技術著手，希望有機會步入該領域施展所學。
