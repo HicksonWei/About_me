@@ -30,12 +30,14 @@
   * 使用 JSON 格式資料渲染畫面
 * [六角西餐廳 Landing Page](https://hicksonwei.github.io/Landing_Page/)
   * Bootstrap 4 + gulp 管理
+* [todos](https://hicksonwei.github.io/todos/)
+  * 簡易 todoList (LocalStorage)
 * [匯率轉換](http://jsbin.com/cagujab/edit?output)
   * Open data + Vue.js 簡易功能操作
-* [todos](https://hicksonwei.github.io/todos/)
-  * 簡易 todoList
 * [UVI](http://jsbin.com/solefom/edit?output)
   * Open data
+* [todos](https://jsbin.com/zikoqezoxe/edit?output)
+  * 簡易 todoList (Firebase 資料庫)
 
 ## 關於我
 從食品科學系畢業後即投入相關產業，雖然工作表現尚屬穩健，卻略嫌欠缺成就感，並慢慢了解到產業的發展極限。躑躅間偶然接觸到程式設計，在初步投入後覺得十分感興趣，便決定辭去職務，透過自學及線上課程，從前端相關技術著手，希望有機會步入該領域施展所學。
