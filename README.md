@@ -19,6 +19,7 @@
 * 了解 Git/Github 基礎操作
 * 能使用 gulp 管理前端任務 (例如 Scss、pug 整合)
 * Bootstrap 4
+* Node.js、Express 基礎知識
 * TOEIC 700
 
 ## 作品
@@ -36,13 +37,13 @@
   * Open data + Vue.js 簡易功能操作
 * [UVI](http://jsbin.com/solefom/edit?output)
   * Open data
-* [todos](https://jsbin.com/zikoqezoxe/edit?output)
-  * 簡易 todoList (Firebase 資料庫)
+* [todos](https://afternoon-ridge-75133.herokuapp.com/)
+  * 簡易 todoList (Express + Firebase)
 
 ## 關於我
 從食品科學系畢業後即投入相關產業，雖然工作表現尚屬穩健，卻略嫌欠缺成就感，並慢慢了解到產業的發展極限。躑躅間偶然接觸到程式設計，在初步投入後覺得十分感興趣，便決定辭去職務，透過自學及線上課程，從前端相關技術著手，希望有機會步入該領域施展所學。
 
 ## 未來學習進程
 * 學習前端框架 (React、Vue 或 Angular)
-* 接觸後端知識
+* 深入學習後端知識
 
