@@ -20,6 +20,7 @@
 * 能使用 gulp 管理前端任務 (例如 Scss、pug 整合)
 * Bootstrap 4
 * Node.js、Express 基礎知識
+* Vue.js 基礎知識
 * TOEIC 700
 
 ## 作品
