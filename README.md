@@ -24,8 +24,6 @@
 * TOEIC 700
 
 ## 作品
-* [六角學院](https://hicksonwei.github.io/HexSchool_Html_FinalProject/)
-  * 基礎版型 
 * [六角西餐廳網站](https://hicksonwei.github.io/HexSchool_RWD_FinalProject/)
   * 客製 RWD + Scss + jQuery
 * [高雄旅遊資訊](https://hicksonwei.github.io/HexSchool_JS_JSON/)
@@ -36,8 +34,8 @@
   * 簡易 todoList (LocalStorage)
 * [匯率轉換](http://jsbin.com/cagujab/edit?output)
   * Open data + Vue.js 簡易功能操作
-* [UVI](http://jsbin.com/solefom/edit?output)
-  * Open data
+* [SPA](https://spa-nuxt.herokuapp.com/)
+  * Vue.js + nuxt
 * [todos](https://afternoon-ridge-75133.herokuapp.com/)
   * 簡易 todoList (Express + Firebase)
 
