@@ -32,10 +32,12 @@
   * Bootstrap 4 + gulp 管理
 * [todos](https://hicksonwei.github.io/todos/)
   * 簡易 todoList (LocalStorage)
+* [會員管理系統](https://member-management-system.herokuapp.com/)
+  * Express + Firebase + EJS 實作登入系統
 * [匯率轉換](http://jsbin.com/cagujab/edit?output)
   * Open data + Vue.js 簡易功能操作
 * [SPA](https://spa-nuxt.herokuapp.com/)
-  * Vue.js + nuxt
+  * Vue.js + Nuxt 實作 Vue-SSR 
 * [todos](https://afternoon-ridge-75133.herokuapp.com/)
   * 簡易 todoList (Express + Firebase)
 
@@ -43,6 +45,6 @@
 從食品科學系畢業後即投入相關產業，雖然工作表現尚屬穩健，卻略嫌欠缺成就感，並慢慢了解到產業的發展極限。躑躅間偶然接觸到程式設計，在初步投入後覺得十分感興趣，便決定辭去職務，透過自學及線上課程，從前端相關技術著手，希望有機會步入該領域施展所學。
 
 ## 未來學習進程
-* 學習前端框架 (React、Vue 或 Angular)
-* 深入學習後端知識
+* 深入學習前端框架 (目前較熟悉 Vue.js)
+* 精進後端知識 (目前較熟悉 Node.js)
 
