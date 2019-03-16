@@ -16,7 +16,7 @@
 * HTML5 + CSS3 (SCSS) + JavaScript
 * 不倚賴前端框架實現 customized responsive web design
 * 使用 Nuxt.js 及 Vue.js 進行專案開發
-* 具有開發銀行業專案及加密貨幣交易網站經驗
+* 具有開發銀行網站及加密貨幣交易網站經驗
 * 與設計師溝通並輔助網頁規劃經驗
 * 與後端工程師溝通及串接 API 經驗
 * 使用 Git/Github 管理專案經驗
