@@ -16,13 +16,16 @@
 * HTML5 + CSS3 (SCSS) + JavaScript
 * 不倚賴前端框架實現 customized responsive web design
 * 使用 Nuxt.js 及 Vue.js 進行專案開發
+* 具有開發銀行業專案及加密貨幣交易網站經驗
 * 與設計師溝通並輔助網頁規劃經驗
 * 與後端工程師溝通及串接 API 經驗
 * 使用 Git/Github 管理專案經驗
-* Bootstrap 4
+* Bootstrap 4、Vuetify
 * TOEIC 700
 
 ## 作品
+* [個人簡介網頁](https://hicksonwei.github.io/homepage_v2/)
+  * Nuxt 靜態渲染 + Vuetify + Stylus + 自動部署
 * [六角西餐廳網站](https://hicksonwei.github.io/HexSchool_RWD_FinalProject/)
   * 客製 RWD + Scss + jQuery
 * [高雄旅遊資訊](https://hicksonwei.github.io/HexSchool_JS_JSON/)
@@ -33,7 +36,7 @@
   * Express + Firebase + EJS 實作登入系統
 * [todos](https://hicksonwei.github.io/todos/)
   * 簡易 todoList (LocalStorage)
-* [台新銀行活動頁 (mobile)](https://richart.tw/TSDIB_RichartWeb/static/event/marketing/201812/Iqiy/index.html)
-  * jQuery + TweenMax
+* [todoList](https://afternoon-ridge-75133.herokuapp.com/)
+  * Express + Firebase 實作
 
 
