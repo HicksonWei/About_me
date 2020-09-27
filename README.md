@@ -12,6 +12,7 @@
 * SGS台灣檢驗科技股份有限公司 - 化學分析師
 * 巧禾數位設計股份有限公司 - 前端工程師
 * 承暉資訊整合股份有限公司 - 前端工程師
+* 英特泰斗股份有限公司 - 前端工程師
 
 ## 技能
 * HTML5 + CSS3 (SCSS / Stylus) + JavaScript (vanilla JS / jQuery)
@@ -34,11 +35,8 @@
   * 使用 JSON 格式資料渲染畫面
 * [六角西餐廳 Landing Page](https://hicksonwei.github.io/Landing_Page/)
   * Bootstrap 4 + gulp 管理
-* [會員管理系統](https://member-management-system.herokuapp.com/)
-  * Express + Firebase + EJS 實作登入系統
 * [todos](https://hicksonwei.github.io/todos/)
   * 簡易 todoList (LocalStorage)
-* [todoList](https://afternoon-ridge-75133.herokuapp.com/)
-  * Express + Firebase 實作
-
+* [單字發音 audio 程式碼擷取工具](https://audio-searcher.now.sh/)
+  * Nuxt + Express API
 
